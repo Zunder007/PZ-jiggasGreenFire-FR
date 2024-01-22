@@ -1,0 +1,3 @@
+IGUI_FR = {
+	IGUI_ItemCat_GreenFireItem = "Mod Green Fire",
+}
