@@ -1,3 +1,8 @@
 IGUI_FR = {
 	IGUI_ItemCat_GreenFireItem = "Mod Green Fire",
+
+	IGUI_CraftCategory_Alchemy = "Alchimie",
+	IGUI_CraftCategory_GreenFire = "Green Fire: La Base",
+	IGUI_CraftCategory_GreenFireCooking = "Green Fire: La Cuisine",
+	IGUI_CraftCategory_GreenFireFarming = "Green Fire: La Culture",
 }
